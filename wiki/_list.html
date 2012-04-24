@@ -16,7 +16,7 @@
       
       <title>
         McKelvin Wiki » 
-        # Hello :)
+        ls /
       </title>
       
       
@@ -47,7 +47,7 @@
     
   </head>
   
-  <body >
+  <body class="listing">
     
       
       
@@ -56,9 +56,15 @@
   
     <ol id="breadcrumbs">
       
-        <li class="crumb-0 last">
+        <li class="crumb-0 not-last">
           
-            index
+            <a href="./">index</a>
+          
+        </li>
+      
+        <li class="crumb-1 last">
+          
+            <span class="list-crumb">list</span>
           
         </li>
       
@@ -72,31 +78,84 @@
         
         
         
-        <p><img alt="Photo" src="./images/sudi_tree_610px.jpg" title="2010年4月@苏堤" /></p>
-<h1># Hello :)</h1>
-<p>这儿是McKelvin的个人Wiki，这个wiki的内容还在不断填充中……</p>
-<ul>
-<li>
-<h2><a href="About%20Me">关于我</a></h2>
-</li>
-<li>
-<h2><a href="Small Projects">小项目</a></h2>
-</li>
-<li>
-<h2><a href="Research">课外研究</a></h2>
-</li>
-<li>
-<h2><a href="Internship">实习经历</a></h2>
-</li>
-</ul>
-<script lang="javascript">
-    var hello = ['ㄋㄧˇㄏㄠˇ', '你好' ,'nǐ hǎo' ,'Hello'];
-    var welcome_text = document.getElementsByTagName('h1')[0];
-    welcome_text.innerText = '#' + hello[~~(Math.random()*hello.length)] + ' :)';
-    document.title = 'McKelvin Wiki » ' + welcome_text.innerText 
-</script>
+        
+  <h1><code>ls /</code></h1>
 
-<p><em>last updated on 23:30 04/24/2012</em></p>
+  
+  <h2>Directories</h2>
+
+  <table id="subdirs">
+    
+      <tr>
+        <td class="name">
+          <a class="dirlink" href="About Me/">
+            About Me/
+          </a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="name">
+          <a class="dirlink" href="Internship/">
+            Internship/
+          </a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="name">
+          <a class="dirlink" href="Research/">
+            Research/
+          </a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="name">
+          <a class="dirlink" href="Small Projects/">
+            Small Projects/
+          </a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="name">
+          <a class="dirlink" href="images/">
+            images/
+          </a>
+        </td>
+      </tr>
+    
+      <tr>
+        <td class="name">
+          <a class="dirlink" href="media/">
+            media/
+          </a>
+        </td>
+      </tr>
+    
+  </table>
+  
+
+  
+
+  
+  <h2>Files</h2>
+
+  <table id="files">
+    
+      <tr>
+        <td class="size">9K</td>
+        <td class="name">
+          <a href="favicon.ico">
+            <code>favicon.ico</code>
+          </a>
+        </td>
+      </tr>
+    
+  </table>
+  
+
         
         
         

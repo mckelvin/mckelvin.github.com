@@ -16,15 +16,15 @@
       
       <title>
         McKelvin Wiki » 
-        # Hello :)
+        ls /About Me
       </title>
       
       
         <!-- YUI CSS reset, fonts, base -->
         <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?3.0.0/build/cssreset/reset-min.css&amp;3.0.0/build/cssfonts/fonts-min.css&amp;3.0.0/build/cssbase/base-min.css" media="screen, projection" />
         
-        <link rel="stylesheet" type="text/css" href="media/css/style.css" media="screen, projection" />
-        <link rel="stylesheet" type="text/css" href="media/css/pygments.css" media="screen, projection" />
+        <link rel="stylesheet" type="text/css" href="../media/css/style.css" media="screen, projection" />
+        <link rel="stylesheet" type="text/css" href="../media/css/pygments.css" media="screen, projection" />
       
       
       
@@ -47,7 +47,7 @@
     
   </head>
   
-  <body >
+  <body class="listing">
     
       
       
@@ -56,9 +56,21 @@
   
     <ol id="breadcrumbs">
       
-        <li class="crumb-0 last">
+        <li class="crumb-0 not-last">
           
-            index
+            <a href="../">index</a>
+          
+        </li>
+      
+        <li class="crumb-1 not-last">
+          
+            <a href="./">About Me</a>
+          
+        </li>
+      
+        <li class="crumb-2 last">
+          
+            <span class="list-crumb">list</span>
           
         </li>
       
@@ -72,31 +84,15 @@
         
         
         
-        <p><img alt="Photo" src="./images/sudi_tree_610px.jpg" title="2010年4月@苏堤" /></p>
-<h1># Hello :)</h1>
-<p>这儿是McKelvin的个人Wiki，这个wiki的内容还在不断填充中……</p>
-<ul>
-<li>
-<h2><a href="About%20Me">关于我</a></h2>
-</li>
-<li>
-<h2><a href="Small Projects">小项目</a></h2>
-</li>
-<li>
-<h2><a href="Research">课外研究</a></h2>
-</li>
-<li>
-<h2><a href="Internship">实习经历</a></h2>
-</li>
-</ul>
-<script lang="javascript">
-    var hello = ['ㄋㄧˇㄏㄠˇ', '你好' ,'nǐ hǎo' ,'Hello'];
-    var welcome_text = document.getElementsByTagName('h1')[0];
-    welcome_text.innerText = '#' + hello[~~(Math.random()*hello.length)] + ' :)';
-    document.title = 'McKelvin Wiki » ' + welcome_text.innerText 
-</script>
+        
+  <h1><code>ls /About Me</code></h1>
 
-<p><em>last updated on 23:30 04/24/2012</em></p>
+  
+
+  
+
+  
+
         
         
         

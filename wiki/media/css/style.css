@@ -2,7 +2,7 @@ html {
   background-color: #f6f6f6; }
 
 img {
-	display: block;
+    display: block;
     margin-left: auto;
     margin-right: auto
 }
@@ -164,12 +164,23 @@ h4, h5, h6 {
   font-size: 13px; }
 
 a {
-  color: #990000;
+  color: #28425E;
   text-decoration: none; }
-  a:hover {
-    color: #4c0000; }
+  /*following added by mckelvin */
+  a:hover, a:visited:hover{
+    color: #034C68; 
+	border-bottom: 1px solid #ADADA5; }
+	/*
   a[href^="http:"] {
     text-decoration: underline; }
+	*/
+  a, a:visited {
+    -webkit-transition: all 0.3s ease-in;
+	text-decoration: none;
+	border-bottom: 1px solid transparent;
+	color: #28425E; }
+
+
 
 dl dt {
   font-weight: bold; }
@@ -182,3 +193,5 @@ pre {
   font-family: Menlo, 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', Courier, 'Courier 10 Pitch', 'Courier New', monospace;
   font-size: 11px;
   line-height: 18px; }
+
+

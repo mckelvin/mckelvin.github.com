@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+Disallow: /wiki/CV.htm
+Disallow: /wiki/CV.pdf

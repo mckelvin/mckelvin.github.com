@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+            ['星座', '考虑人口基数', '不考虑人口基数' ], 
+            ['魔羯座', 19648.1446593, 13563 ], 
+            ['水瓶座', 1807.93504811, 1487 ], 
+            ['双鱼座', 9458.81093327, 7264 ], 
+            ['白羊座', 4303.96543393, 4472 ], 
+            ['金牛座', 6676.79448932, 7457 ], 
+            ['双子座', 4508.38256966, 5299 ], 
+            ['巨蟹座', 6109.81888715, 6793 ], 
+            ['狮子座', 4644.01095484, 3734 ], 
+            ['处女座', 29889.3265861, 20179 ], 
+            ['天秤座', 8139.84424857, 6162 ], 
+            ['天蝎座', 12062.9817289, 22393 ], 
+            ['射手座', 2507.49040469, 2968 ],
+            ]);
+
+        var options = {
+          title: '最招人讨厌的星座',
+          hAxis: {title:'星座'},
+        };
+
+        var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+</script>
+  </head>
+  <body>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>

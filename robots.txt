@@ -1,2 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /resume
+Disallow: /zh/resume
+Disallow: /assets/resumes

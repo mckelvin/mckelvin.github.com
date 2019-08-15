@@ -6,9 +6,167 @@
 </description>
     <link>https://mckelv.in/</link>
     <atom:link href="https://mckelv.in/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Aug 2019 15:29:15 +0800</pubDate>
-    <lastBuildDate>Sat, 10 Aug 2019 15:29:15 +0800</lastBuildDate>
+    <pubDate>Thu, 15 Aug 2019 23:29:27 +0800</pubDate>
+    <lastBuildDate>Thu, 15 Aug 2019 23:29:27 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>《关于印发服务业扩大开放重点领域开放改革三年行动计划的通知》政策笔记</title>
+        <description>&lt;p&gt;&lt;em&gt;本文仅仅是我个人整理的笔记，并非新闻报道，不对真实性、完整性、即时性做任何保证。&lt;/em&gt;
+&lt;em&gt;如涉及侵权等其他情况，请联系我删除。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;今天北京市出台了一个新文件《&lt;a href=&quot;http://sw.beijing.gov.cn/zwxx/tzgg/201908/t20190815_98323.html&quot;&gt;关于印发服务业扩大开放重点领域开放改革三年行动计划的通知&lt;/a&gt;》，大致看了下内容还挺有意思的。&lt;/p&gt;
+
+&lt;p&gt;此前多家媒体援引&lt;a href=&quot;https://www.thepaper.cn/newsDetail_forward_4170371&quot;&gt;澎湃新闻&lt;/a&gt;的消息称：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;在《互联网信息领域开放改革三年行动计划》中，北京市提出将推动开放互联网游戏、视频和图书等互联网内容运营业务外资准入条件，探索在北京市试点开放区域，突破现有政策，允许外资在满足内容监管和数据安全的前提下，提供网络游戏下载和网络视听节目服务。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;并没有&lt;/strong&gt;看到相关政策条款，&lt;a href=&quot;http://www.bjnews.com.cn/news/2019/08/15/615706.html&quot;&gt;新京报&lt;/a&gt;原文链接不存在。可能我看漏掉了。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;做个我个人还比较感兴趣的 TL;DR:&lt;/p&gt;
+
+&lt;h3 id=&quot;政策分八大领域&quot;&gt;政策分八大领域&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;科技&lt;/li&gt;
+  &lt;li&gt;互联网信息&lt;/li&gt;
+  &lt;li&gt;金融&lt;/li&gt;
+  &lt;li&gt;教育&lt;/li&gt;
+  &lt;li&gt;文化旅游&lt;/li&gt;
+  &lt;li&gt;医疗和养老&lt;/li&gt;
+  &lt;li&gt;专业服务&lt;/li&gt;
+  &lt;li&gt;商业服务&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;科技&quot;&gt;科技&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;出台优惠政策吸引高科技行业{人才,企业}&lt;/li&gt;
+  &lt;li&gt;涉及领域
+    &lt;ul&gt;
+      &lt;li&gt;脑科学&lt;/li&gt;
+      &lt;li&gt;人工智能x2&lt;/li&gt;
+      &lt;li&gt;纳米&lt;/li&gt;
+      &lt;li&gt;5G&lt;/li&gt;
+      &lt;li&gt;大数据&lt;/li&gt;
+      &lt;li&gt;云计算&lt;/li&gt;
+      &lt;li&gt;区块链&lt;/li&gt;
+      &lt;li&gt;生命科学&lt;/li&gt;
+      &lt;li&gt;前沿材料&lt;/li&gt;
+      &lt;li&gt;新能源&lt;/li&gt;
+      &lt;li&gt;机器人&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;互联网信息&quot;&gt;互联网信息&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;允许&lt;strong&gt;港澳&lt;/strong&gt;地区以外的外资企业可以参照CEPA协议开展{IDC, 共有云}业务&lt;/li&gt;
+  &lt;li&gt;吸引&lt;strong&gt;海外电信运营商&lt;/strong&gt;在华合资（&amp;lt;50%）企业，&lt;strong&gt;为在京外资&lt;/strong&gt;企业提供VPN业务&lt;/li&gt;
+  &lt;li&gt;允许外资独资提供&lt;strong&gt;应用商店&lt;/strong&gt;业务($GOOGL Play Store?)&lt;/li&gt;
+  &lt;li&gt;组织3次政策宣传以下引进的业务
+    &lt;ul&gt;
+      &lt;li&gt;存储转发类业务。包括…
+        &lt;ul&gt;
+          &lt;li&gt;语音信箱&lt;/li&gt;
+          &lt;li&gt;电子邮件&lt;/li&gt;
+          &lt;li&gt;传真存储转发&lt;/li&gt;
+          &lt;li&gt;……&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;国内多方通信服务业务。包括…
+        &lt;ul&gt;
+          &lt;li&gt;国内多方电话服务业务&lt;/li&gt;
+          &lt;li&gt;国内可视电话会议服务业务&lt;/li&gt;
+          &lt;li&gt;国内因特网会议电视及图像服务业务&lt;/li&gt;
+          &lt;li&gt;……&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;互联网接入服务业务（仅限为用户提供互联网接入服务）
+        &lt;ul&gt;
+          &lt;li&gt;涉及英国电信等外资ISP&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;全程帮助外资IT企业入华&lt;/li&gt;
+  &lt;li&gt;力争引进&lt;strong&gt;多方通信服务业务&lt;/strong&gt;领域&lt;strong&gt;新兴独角兽企业&lt;/strong&gt;($ZM ?)在京设立机构&lt;/li&gt;
+  &lt;li&gt;积极推动国际云计算龙头企业($AMZN AWS?)落地重大项目&lt;/li&gt;
+  &lt;li&gt;……&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;金融&quot;&gt;金融&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;推动放宽以下机构市场准入
+    &lt;ul&gt;
+      &lt;li&gt;征信评级机构&lt;/li&gt;
+      &lt;li&gt;银行保险业金融机构&lt;/li&gt;
+      &lt;li&gt;证券业金融机构&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;积极落实国家金融委办公室11条金融业对外开放措施
+    &lt;ul&gt;
+      &lt;li&gt;支持在京外资信用评级机构获得&lt;strong&gt;银行间市场债券评级&lt;/strong&gt;业务牌照&lt;/li&gt;
+      &lt;li&gt;支持外资参与的&lt;strong&gt;商业银行理财子公司&lt;/strong&gt;、&lt;strong&gt;理财公司&lt;/strong&gt;、&lt;strong&gt;养老金管理公司&lt;/strong&gt;、&lt;strong&gt;货币经纪公司&lt;/strong&gt;等机构在京设立&lt;/li&gt;
+      &lt;li&gt;支持放宽&lt;strong&gt;人身险、保险资产管理公司&lt;/strong&gt;外资持股比例&lt;/li&gt;
+      &lt;li&gt;放宽外资&lt;strong&gt;保险公司&lt;/strong&gt;准入条件&lt;/li&gt;
+      &lt;li&gt;取消&lt;strong&gt;证券&lt;/strong&gt;公司、&lt;strong&gt;基金管理&lt;/strong&gt;公司和&lt;strong&gt;期货&lt;/strong&gt;公司外资持股比例限制等政策在京加快落地&lt;/li&gt;
+      &lt;li&gt;支持在京的外资机构获得&lt;strong&gt;银行间债券市场A类主承销&lt;/strong&gt;牌照，参与银行间债券市场&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;跨国公司账户、外汇结算相关优惠政策&lt;/li&gt;
+  &lt;li&gt;支持跨国公司开展跨境资金集中运营管理业务，进一步简化外债和境外放款登记管理&lt;/li&gt;
+  &lt;li&gt;允许合格机构向合格投资者募集人民币资金，并将所募集资金投资于海外市场(QDLP)&lt;/li&gt;
+  &lt;li&gt;扩大 QDII, RQDII 开发，积极争取投资额度&lt;/li&gt;
+  &lt;li&gt;将&lt;strong&gt;合格境内机构投资者主体&lt;/strong&gt;(QDII)资格范围扩大至&lt;strong&gt;境内外机构在北京市发起设立的投资管理机构&lt;/strong&gt;，包括境内证券公司、基金管理公司和期货公司&lt;/li&gt;
+  &lt;li&gt;在京开展不良资产跨境转让业务试点&lt;/li&gt;
+  &lt;li&gt;加快推动设立人民币海外投贷基金，更好支持实体经济跨境发展&lt;/li&gt;
+  &lt;li&gt;支持境外投资者以人民币参与境内企业&lt;strong&gt;国有产权跨境交易&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;发展跨境人民币贷款业务，支持商业银行搭建“一带一路”跨境金融服务平台&lt;/li&gt;
+  &lt;li&gt;支持符合条件的境外企业在境内发行人民币债券&lt;/li&gt;
+  &lt;li&gt;推动符合条件的外资控股或合资券商获得&lt;strong&gt;债券通做市商保荐业务资格&lt;/strong&gt;等&lt;/li&gt;
+  &lt;li&gt;支持符合互认条件的基金产品参与&lt;strong&gt;内地与香港基金产品互认&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;……&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;教育&quot;&gt;教育&lt;/h3&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+
+&lt;h3 id=&quot;文化旅游&quot;&gt;文化旅游&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;允许外商独资设立娱乐场所、演出场所经营单位&lt;/li&gt;
+  &lt;li&gt;允许设立外商独资演出经纪机构，并在全国范围内提供服务。&lt;/li&gt;
+  &lt;li&gt;允许在京设立的外商独资经营旅行社试点经营中国公民出境旅游业务（赴台湾地区除外）。&lt;/li&gt;
+  &lt;li&gt;允许外商投资音像制品制作业务（限于在北京国家音乐产业基地、中国北京出版创意产业园区、北京国家数字出版基地内开展合作，中方应掌握经营主导权和内容终审权）。&lt;/li&gt;
+  &lt;li&gt;促进入境游消费，完善免税店相关政策&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;医疗和养老&quot;&gt;医疗和养老&lt;/h3&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+
+&lt;h3 id=&quot;专业服务&quot;&gt;专业服务&lt;/h3&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+
+&lt;h3 id=&quot;商业服务&quot;&gt;商业服务&lt;/h3&gt;
+
+&lt;p&gt;TODO&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Aug 2019 00:00:00 +0800</pubDate>
+        <link>https://mckelv.in/zh/2019/08/15/beijing-service-industry-reform-3yr-plan.html</link>
+        <guid isPermaLink="true">https://mckelv.in/zh/2019/08/15/beijing-service-industry-reform-3yr-plan.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>你好世界！</title>
